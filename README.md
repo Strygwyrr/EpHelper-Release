@@ -23,7 +23,7 @@
 * 增加埃及节点（一些游戏在该区非常便宜，例如`地铁离去`仅需$20，而原价为$50）
 * 独立网站
 
-### 捐赠
+### 捐款
 开发新功能和升级维护节点需要一定成本，有能力的用户可以支付宝或者微信扫码支付提供资助。自愿原则，数额随意。
 
 <img src="http://ep-helper.oss-cn-hongkong.aliyuncs.com/alipay.png" width="110" height="105.6" alt="支付宝支付"/> <img src="https://ep-helper.oss-cn-hongkong.aliyuncs.com/wechatpay.png" width="98" height="99" alt="微信支付"/>
