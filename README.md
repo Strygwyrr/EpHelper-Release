@@ -24,7 +24,7 @@
 * 独立网站
 
 ### 捐赠
-开发新功能和升级维护节点需要一定成本，有能力的可以支付宝或者微信扫码支付提供资助，数额随意。
+开发新功能和升级维护节点需要一定成本，有能力的可以支付宝或者微信扫码支付提供资助。自愿原则，数额随意。
 
 <img src="http://ep-helper.oss-cn-hongkong.aliyuncs.com/alipay.png" width="110" height="105.6" alt="支付宝支付"/> <img src="https://ep-helper.oss-cn-hongkong.aliyuncs.com/wechatpay.png" width="98" height="99" alt="微信支付"/>
 
